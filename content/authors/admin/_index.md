@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haoyu(Isaac) Song
+title: Haoyu(Isaac175) Song
 
 # Is this the primary user of the site?
 superuser: true
