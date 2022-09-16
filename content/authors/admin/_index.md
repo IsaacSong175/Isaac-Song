@@ -17,7 +17,7 @@ organizations:
 bio: My name is Haoyu Song. I am currently a student at University of Waterloo and major in Computer Engineering. This is a very simple personal page that shows some basic information about me.
 
 # Interests to show in About widget
-Summary of Qualifications:
+interests:
   -	Proficiency in object-oriented programming (C/C++ and Java).
   -	Proficiency in front-end programming languages like HTML, CSS, and JavaScript and frameworks like Vue.js and jQuery.
   -	Solid knowledge of UNIX/Linux operating systems programming using C.
