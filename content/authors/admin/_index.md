@@ -27,9 +27,9 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-    - Candidate for Bachelor of Applied Science                                                    
-      year: 2019 – present
+  - course: Candidate for Bachelor of Applied Science
+      institution: University of Waterloo
+      year: 2019-present
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
