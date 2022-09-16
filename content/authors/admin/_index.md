@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haoyu(Isaac175) Song
+title: Haoyu Song
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,6 +27,7 @@ interests:
 
 # Education to show in About widget
 education:
+  courses:
   - course: Candidate for Bachelor of Applied Science
       institution: University of Waterloo
       year: 2019-present
@@ -60,7 +61,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'h77song@uwaterloo.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
