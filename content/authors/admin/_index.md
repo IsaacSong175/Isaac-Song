@@ -28,12 +28,6 @@ education:
   - course: Candidate for Bachelor of Applied Science
     institution: University of Waterloo
     year: 2019
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,12 +58,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "h77song@uwaterloo.ca"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Major in Computer Engineering
+My name is Haoyu Song. I am currently a student at University of Waterloo and major in Electrical Engineering. This is a very simple personal page that shows some basic information about me.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
