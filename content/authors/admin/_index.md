@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Haoyu Song
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 3B Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Waterloo
+  url: https://www.uwaterloo.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Proficiency in object-oriented programming (C/C++ and Java).
+- Proficiency in front-end programming languages like HTML, CSS, and JavaScript and frameworks like Vue.js and jQuery.
+- olid knowledge of UNIX/Linux operating systems programming using C.
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Candidate for Bachelor of Applied Science
+    institution: University of Waterloo
+    year: 2019
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
